@@ -1,4 +1,13 @@
 # Code_Aster-MPI-in-Singularity-of-SM2022
+The following tutorial explains build the MPI Version of Code Aster (16.4.0) within the Singularity Container of Salome-Meca 2022.
+
+It references and builds on https://github.com/emefff/Code-Aster-MPI-in-Singularity-of-SM2021.
+
+So a big thank you goes out to fellow members of the Code_Aster Forum and Salome-Meca and Code_Aster, EDF's R&D-Team, www.code-aster.org.
+
+Steps were tested on Ubuntu 22.04 LTS desktop version.
+
+
 ## Prerequisites
 Assuming you have Singularity up and running, otherwise check
 - https://github.com/sylabs/singularity/blob/main/INSTALL.md 
