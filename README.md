@@ -93,4 +93,6 @@ And run Salome-Meca with --soft flag if you don't have Nvidia GPU:
 ```
 salome_meca-lgpl-2022.1.0-1-20221225-scibian-9 --soft
 ```
+[MPI enabled .sif can be downloaded here.](https://1drv.ms/u/s!AroYvThRxDisq5oZTx3oz3uNCnmTTg?e=e7FYhp)
+
 Happy FEM-ing.
